@@ -1,8 +1,9 @@
-# Rick's cafe
+# Brain and Language
 
 
-## Article of Today
-
+## Selected Article
+## Feb.2018
+### NO.1
 #### Hamrick, P., Lum, J. A., & Ullman, M. T. (2018). 
 #### **Child first language and adult second language are both tied to general-purpose learning systems.** 
 #### *Proceedings of the National Academy of Sciences*, 201713975.
